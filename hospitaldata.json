@@ -1,0 +1,17 @@
+[
+  {
+    "name": "xyz",
+    "patient_count": 100,
+    "location": "Location C"
+  },
+  {
+    "name": "pqr",
+    "patient_count": 440,
+    "location": "location pp"
+  },
+  {
+    "name": "abc",
+    "patient_count": 140,
+    "location": "location N"
+  }
+]
